@@ -14,4 +14,4 @@ An awesome repository for a collection of awesome links
 * [Slack](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130)
 
 ###Tutorials
-[Offcial manual](https://www.scirra.com/manual/1/construct-2)
+* [Offcial manual](https://www.scirra.com/manual/1/construct-2)
