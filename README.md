@@ -15,3 +15,6 @@ An awesome repository for a collection of awesome links
 
 ###Tutorials
 * [Official manual](https://www.scirra.com/manual/1/construct-2)
+
+###Games
+* [Construct 2 games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227)
