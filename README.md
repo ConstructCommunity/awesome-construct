@@ -5,7 +5,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 [How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/Contribute.md)
 
-# Table of Content
+# Contents
 
 - [Games Showcase](#games-showcase)
 - [Hosting](#hosting)
