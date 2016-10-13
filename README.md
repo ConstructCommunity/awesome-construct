@@ -1,7 +1,5 @@
-# awesome-construct
+# Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engine [Construct 2](https://www.scirra.com/construct2).
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/Contribute.md)
 
