@@ -5,6 +5,14 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 [How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/Contribute.md)
 
+# Table of Content
+
+- [Games Showcase](#games-showcase)
+- [Hosting](#hosting)
+- [Tools](#tools)
+- [Communication](#communication)
+- [Tutorials](#tutorials)
+
 ### Games Showcase
 * [Construct 2 games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227)
 * [Construct 2 games on itch.io](https://itch.io/games/tag-construct-2)
