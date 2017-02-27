@@ -50,6 +50,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [[thenewboston] Platform Game Development w/ Construct 2 Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX)
 * [[thenewboston] Physics Puzzle Game Development w/ Construct 2 Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDexNbWi0uPBP6buduUZO3Q)
 * [[LividProductions] Platformer Tutorials (C2)](https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7)
+* [[Jerementor] Construct 2 Tutorials](https://www.youtube.com/channel/UCQkYeiHm9URZsa7nugUg1lw/playlists)
 * [[Kawaerri] Scirra Construct 2 Tutorial](https://www.youtube.com/playlist?list=PLdn9X5UVD8H1dEcWVjYU9E5fbpPGjZnQv)
 * [Gamer Z - Tutorial List](https://www.youtube.com/channel/UCXIcG5r9W_Iw6dui35g9oLQ/playlists)
 * [[TodaysTuts] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK)
@@ -60,6 +61,9 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB)
 * [[MVA] Game Development with Construct 2 (Basic)](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) 
 * [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335)
+
+* [[FREE!]Programming Logic MADE EASY with Construct 2!](https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html)
+
 * [[Udemy FREE!] Learn Construct 2: Creating a Pixel Platformer in HTML5!] (https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/)
 
 * [TutPlus](https://gamedevelopment.tutsplus.com/categories/construct-2)
