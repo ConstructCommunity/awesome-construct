@@ -59,6 +59,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [Let's Make Games: Tutorial 2 - ASTEROIDS](https://www.youtube.com/watch?v=nYULTk2BpKY)
 * [Let's Make Games: Tutorial 3 - Flappy Bird](https://www.youtube.com/watch?v=eBccn1qMB_U)
 * [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB)
+
 * [[MVA] Game Development with Construct 2 (Basic)] (https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355)
 * [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335)
 * [[FREE!]Programming Logic MADE EASY with Construct 2!](https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html)
