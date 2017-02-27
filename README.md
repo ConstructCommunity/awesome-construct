@@ -63,7 +63,6 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 * [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335)
 * [[FREE!]Programming Logic MADE EASY with Construct 2!](https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html)
-
 * [[Udemy FREE!] Learn Construct 2: Creating a Pixel Platformer in HTML5!] (https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/)
 
 * [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2)
