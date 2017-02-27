@@ -36,6 +36,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [Slack Server](https://scirra.slack.com) | [Scirra Forum Thread](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130)
 
 ### Tutorials
+
 * [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_)
 * [[ScirraVideos] Construct 2 Tutorials](https://www.youtube.com/user/ScirraVideos/playlists)
 * [[C2Tuts 2D Game Development] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLGdBDrsyOPm9XGiq1w_8DvbEQbHmkn7fx)
@@ -60,11 +61,9 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [Let's Make Games: Tutorial 3 - Flappy Bird](https://www.youtube.com/watch?v=eBccn1qMB_U)
 * [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB)
 * [[MVA] Game Development with Construct 2 (Basic)] (https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355)
-
 * [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335)
 * [[FREE!]Programming Logic MADE EASY with Construct 2!](https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html)
 * [[Udemy FREE!] Learn Construct 2: Creating a Pixel Platformer in HTML5!] (https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/)
-
 * [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2)
 
 ### E-Books
