@@ -15,25 +15,25 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 - [Useful Links](#useful-links)
 
 ### Games Showcase
-* [Construct 2 games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - A list of Steam games made with Construct 2
-* [Construct 2 games on itch.io](https://itch.io/games/tag-construct-2) - A list of itch.io games made with Construct 2
+* [Construct 2 games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with Construct 2
+* [Construct 2 games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with Construct 2
 
 ### Hosting
-* [itch.io](http://www.itch.io) - A platform where to host, showcase, sell, etc .. your games - **Free**
-* [GitHub Pages](http://pages.github.com) - A platform where to host an exported game as a static website - **Free**
+* [itch.io](http://www.itch.io) - Platform where to host, showcase, sell, etc .. your games - **Free**
+* [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**
 * [BitBaloon](https://www.bitballoon.com) - **Free**
 
 ### Tools
-* [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - An addon-manager where you can download and host C2's addons
+* [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - Addon-manager where you can download and host C2's addons
 * [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow
 
 ### Plugins-Behaviors-Effects
-* [[Kyatric] C2 Plugins and Behaviors List](https://www.scirra.com/forum/viewtopic.php?t=65170&start=0) - A complete list of Plugins and Behaviours available on the forums
-* [[Kyatric] WebGL Effects List](https://www.scirra.com/forum/viewtopic.php?t=74374&start=0) - A complete list of Effects available on the forums
+* [[Kyatric] C2 Plugins and Behaviors List](https://www.scirra.com/forum/viewtopic.php?t=65170&start=0) - Complete list of Plugins and Behaviours available on the forums
+* [[Kyatric] WebGL Effects List](https://www.scirra.com/forum/viewtopic.php?t=74374&start=0) - Complete list of Effects available on the forums
 
 ### Communication
-* [Discord Server](https://discord.gg/8RJBHbX) | [Scirra Forum Thread](https://www.scirra.com/forum/there-is-a-construct-2-discord-server-chat-app-join-us_t181854) - A Discord server about Construct 2
-* [Slack Server](https://scirra.slack.com) | [Scirra Forum Thread](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130) - A Slack server about Construct 2
+* [Discord Server](https://discord.gg/8RJBHbX) | [Scirra Forum Thread](https://www.scirra.com/forum/there-is-a-construct-2-discord-server-chat-app-join-us_t181854) - Discord server about Construct 2
+* [Slack Server](https://scirra.slack.com) | [Scirra Forum Thread](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130) - Slack server about Construct 2
 
 ### Tutorials
 > Youtube
@@ -41,9 +41,9 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - Youtube channel about making all sort of stuff in C2
 * [[ScirraVideos] Construct 2 Tutorials](https://www.youtube.com/user/ScirraVideos/playlists) - Official Scirra's Youtube channel
 * [[C2Tuts 2D Game Development] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLGdBDrsyOPm9XGiq1w_8DvbEQbHmkn7fx) - General Construct 2 tutorials
-* [[Nicholas Dingle] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - A number of tutorials covering different games you can create and different tricks.
+* [[Nicholas Dingle] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - Number of tutorials covering different games you can create and different tricks.
 * [[John Maksym] Construct 2 Tutorial Series](https://www.youtube.com/playlist?list=PLq6aUvz66jtfnuyOKnPXO5dZly6CB8naA)  - General Construct 2 tutorials
-* [[ConstructG] Create Simple Platformer Game With Construct 2](https://www.youtube.com/playlist?list=PLxwakQrJudt_NQlMp6oVuBdB-WIDKgoQ3) - A tutorial about how to make a platformer in Construct 2
+* [[ConstructG] Create Simple Platformer Game With Construct 2](https://www.youtube.com/playlist?list=PLxwakQrJudt_NQlMp6oVuBdB-WIDKgoQ3) - Tutorial about how to make a platformer in Construct 2
 * [[Diego Lizarazo] Construct 2 Tutorials](https://www.youtube.com/user/kanedarkon/videos?view=0&flow=grid&sort=da) - Random stuff about Construct 2
 * [[English Acorn] Construct 2 - Tutorials](https://www.youtube.com/playlist?list=PLusL6SZZRaWr4zqm6GrQHmOuShwtypRJ5) - General tutorials about the Construct 2 Interface
 * [[English Acorn] Construct 2 - Plugins and Objects](https://www.youtube.com/playlist?list=PLusL6SZZRaWqP6UmVPs9Ml8BRo2t-wvnT) - Tutorials about plugins and how they work inside the Editor
@@ -68,7 +68,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - Tutorials about Construct 2
 
 ### E-Books
-* [Level Zero](https://www.scirra.com/blog/172/level-zero-free-construct-2-book) - A complete book on how to make games with Construct 2
+* [Level Zero](https://www.scirra.com/blog/172/level-zero-free-construct-2-book) - Complete book on how to make games with Construct 2
 
 ### Useful Links
 * [[How do I] Frequently asked questions](https://www.scirra.com/forum/viewtopic.php?t=63692&start=0) - Scirra FAQ
