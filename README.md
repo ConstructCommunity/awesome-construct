@@ -18,8 +18,8 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 - [Useful Links](#useful-links)
 
 ### Games Showcase
-* [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the Editor.
-* [Games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with the Editor.
+* [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
+* [Games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with the engine.
 
 ### Hosting
 * [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
