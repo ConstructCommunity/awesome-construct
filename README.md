@@ -64,10 +64,10 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 > Other Sources
 
-* [[MVA] Game Development with Construct 2 (Basic)] (https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - Basic course about making games.
+* [[MVA] Game Development with Construct 2 (Basic)](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - Basic course about making games.
 * [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
 * [Programming Logic MADE EASY with Construct 2!](https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html) - General course about making games.
-* [[Udemy FREE!] Learn Construct 2] (https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
+* [[Udemy FREE!] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
 * [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
 
 ### E-Books
