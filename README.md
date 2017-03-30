@@ -39,10 +39,10 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [Slack Server](https://scirra.slack.com) | [Scirra Forum Thread](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130) - Slack server.
 
 ### Tutorials
-> Youtube
+> YouTube
 
-* [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - Youtube channel about making all sort of stuff.
-* [[ScirraVideos] Construct 2 Tutorials](https://www.youtube.com/user/ScirraVideos/playlists) - Official Scirra's Youtube channel.
+* [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff.
+* [[ScirraVideos] Construct 2 Tutorials](https://www.youtube.com/user/ScirraVideos/playlists) - Official Scirra's YouTube channel.
 * [[C2Tuts 2D Game Development] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLGdBDrsyOPm9XGiq1w_8DvbEQbHmkn7fx) - General tutorials.
 * [[Nicholas Dingle] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - Number of tutorials covering different games you can create and different tricks.
 * [[John Maksym] Construct 2 Tutorial Series](https://www.youtube.com/playlist?list=PLq6aUvz66jtfnuyOKnPXO5dZly6CB8naA)  - General tutorials.
