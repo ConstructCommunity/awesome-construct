@@ -12,14 +12,24 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 # Contents
 
+- [Community](#community)
 - [Games Showcase](#games-showcase)
 - [Hosting](#hosting)
 - [Tools](#tools)
 - [Plugins-Behaviors-Effects](#plugins-behaviors-effects)
-- [Communication](#communication)
 - [Tutorials](#tutorials)
 - [E-Books](#e-books)
 - [Useful Links](#useful-links)
+
+### Community
+* [Discord Server](https://discord.gg/8RJBHbX) | [Scirra Forum Thread](https://www.scirra.com/forum/there-is-a-construct-2-discord-server-chat-app-join-us_t181854)
+* [Slack Server](https://scirra.slack.com) | [Scirra Forum Thread](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130)
+* [FAQ](https://www.scirra.com/forum/viewtopic.php?t=63692&start=0)
+* [Forums](https://www.scirra.com/forum)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/construct-2)
+* [Reddit](https://www.reddit.com/r/construct/)
+* [Twitter](https://twitter.com/constructteam)
+* [Facebook](https://www.facebook.com/ConstructTeam/)
 
 ### Games Showcase
 * [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
@@ -38,12 +48,8 @@ This list includes all the best tools, tutorials and examples related to the awe
 * [[Kyatric] C2 Plugins and Behaviors List](https://www.scirra.com/forum/viewtopic.php?t=65170&start=0) - Complete list of Plugins and Behaviours available on the forums.
 * [[Kyatric] WebGL Effects List](https://www.scirra.com/forum/viewtopic.php?t=74374&start=0) - Complete list of Effects available on the forums.
 
-### Communication
-* [Discord Server](https://discord.gg/8RJBHbX) | [Scirra Forum Thread](https://www.scirra.com/forum/there-is-a-construct-2-discord-server-chat-app-join-us_t181854) - Discord server.
-* [Slack Server](https://scirra.slack.com) | [Scirra Forum Thread](https://www.scirra.com/forum/live-span-class-posthilit-chat-span-for-scirra-com_p1003130?#p1003130) - Slack server.
-
 ### Tutorials
-> YouTube
+#### YouTube
 
 * [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff.
 * [[ScirraVideos] Construct 2 Tutorials](https://www.youtube.com/user/ScirraVideos/playlists) - Official Scirra's YouTube channel.
@@ -66,7 +72,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 * Let's Make Games: [[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [[Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 * [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
 
-> Other Sources
+#### Other Sources
 
 * [[MVA] Game Development with Construct 2 (Basic)](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - Basic course about making games.
 * [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
@@ -78,11 +84,8 @@ This list includes all the best tools, tutorials and examples related to the awe
 * [Level Zero](https://www.scirra.com/blog/172/level-zero-free-construct-2-book) - Complete book on how to make games.
 
 ### Useful Links
-* [[How do I] Frequently asked questions](https://www.scirra.com/forum/viewtopic.php?t=63692&start=0) - Scirra FAQ.
 * [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 * [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
-
-### Community
 
 
 
