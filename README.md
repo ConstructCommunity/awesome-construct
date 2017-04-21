@@ -16,7 +16,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Games Showcase](#games-showcase)
 - [Hosting](#hosting)
 - [Tools](#tools)
-- [Plugins-Behaviors-Effects](#plugins-behaviors-effects)
+- [Plugins/Behaviors/Effects](#plugins-behaviors-effects)
 - [Tutorials](#tutorials)
 - [E-Books](#e-books)
 - [Useful Links](#useful-links)
