@@ -2,7 +2,11 @@
 
 [<img src="https://www.scirra.com/images/construct2.png" align="right" width="100">](https://www.scirra.com/)
 
-A curated list of tools, tutorials, examples, and much more, for the awesome game development engine [Construct 2](https://www.scirra.com/construct2).
+> [Construct 2](https://www.scirra.com/construct2) is a powerful ground breaking HTML5 game creator designed specifically for 2D games. It allows anyone to build games — no coding required!
+>
+> -- <cite>Ashley (Scirra Founder)</cite>
+
+This list includes all the best tools, tutorials and examples related to the awesome game development engine [Construct 2](https://www.scirra.com/construct2).
 
 [How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/Contribute.md)
 
@@ -77,6 +81,8 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 * [[How do I] Frequently asked questions](https://www.scirra.com/forum/viewtopic.php?t=63692&start=0) - Scirra FAQ.
 * [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 * [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
+
+### Community
 
 
 
