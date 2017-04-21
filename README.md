@@ -8,7 +8,7 @@
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engine [Construct 2](https://www.scirra.com/construct2).
 
-[How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/Contribute.md)
+[How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 # Contents
 
