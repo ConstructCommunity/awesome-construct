@@ -8,7 +8,7 @@
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engine [Construct 2](https://www.scirra.com/construct2).
 
-[How to contribute ?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
+[How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 # Contents
 
@@ -44,7 +44,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 * [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - Addon-manager where you can download and host addons.
 * [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 
-### Plugins-Behaviors-Effects
+### Plugins/Behaviors/Effects
 * [[Kyatric] C2 Plugins and Behaviors List](https://www.scirra.com/forum/viewtopic.php?t=65170&start=0) - Complete list of Plugins and Behaviours available on the forums.
 * [[Kyatric] WebGL Effects List](https://www.scirra.com/forum/viewtopic.php?t=74374&start=0) - Complete list of Effects available on the forums.
 
