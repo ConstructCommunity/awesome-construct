@@ -39,9 +39,11 @@ This list includes all the best tools, tutorials and examples related to the awe
 * [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
 * [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
 * [BitBaloon](https://www.bitballoon.com) - Platform where to host an exported game as a static website - **Free/Paid**.
+* [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
+* [Now](https://zeit.co/now) - Platform where to host an exported game as a static website, a docker image or a nodejs server - **Free/Paid**.
 
 ### Tools
-* [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - Addon-manager where you can download and host addons.
+* [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - Addon-manager where you can download and host addons (Deprecated).
 * [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 
 ### Plugins/Behaviors/Effects
