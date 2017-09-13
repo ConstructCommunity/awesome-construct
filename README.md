@@ -41,6 +41,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 * [BitBaloon](https://www.bitballoon.com) - Platform where to host an exported game as a static website - **Free/Paid**.
 * [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
 * [Now](https://zeit.co/now) - Platform where to host an exported game as a static website, a docker image or a nodejs server - **Free/Paid**.
+* [Netlify](https://www.netlify.com/) - Platform where to host an exported game as a static website - **Free/Paid**.
 
 ### Tools
 * [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - Addon-manager where you can download and host addons (Deprecated).
