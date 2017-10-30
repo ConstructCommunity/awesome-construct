@@ -50,6 +50,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 ### Tools
 * [Plugin Manager](https://armaldio.itch.io/construct-2-plugin-manager) - Addon-manager where you can download and host addons (Deprecated).
 * [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
+* [Addon Assistant](https://github.com/armaldio/c2-addon-assistant) - Construct addon development assistant
 
 ### Plugins/Behaviors/Effects
 * [[Kyatric] C2 Plugins and Behaviors List](https://www.scirra.com/forum/viewtopic.php?t=65170&start=0) - Complete list of Plugins and Behaviours available on the forums.
