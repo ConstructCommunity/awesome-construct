@@ -10,10 +10,6 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/xUwNPd323FogQwpUUpKNVYuT/armaldio/awesome-construct'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/xUwNPd323FogQwpUUpKNVYuT/armaldio/awesome-construct.svg' />
-</a>
-
 # Contents
 
 - [Community](#community)
