@@ -3,8 +3,8 @@
 [<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.scirra.com/)
 
 > You can create the game of your dreams. Build brain tickling puzzles, stunning platformers and immersive RPGs - or break the mould and make something new.
-
 Create what you want, how you want with [Construct](https://www.construct.net).
+
 >
 > -- <cite>Ashley (Scirra Founder)</cite>
 
