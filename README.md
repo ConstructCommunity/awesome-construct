@@ -1,12 +1,14 @@
 # Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://www.scirra.com/images/construct2.png" align="right" width="100">](https://www.scirra.com/)
+[<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.scirra.com/)
 
-> [Construct 2](https://www.scirra.com/construct2) is a powerful ground breaking HTML5 game creator designed specifically for 2D games. It allows anyone to build games — no coding required!
+> You can create the game of your dreams. Build brain tickling puzzles, stunning platformers and immersive RPGs - or break the mould and make something new.
+
+Create what you want, how you want with [Construct](https://www.construct.net).
 >
 > -- <cite>Ashley (Scirra Founder)</cite>
 
-This list includes all the best tools, tutorials and examples related to the awesome game development engine [Construct 2](https://www.scirra.com/construct2).
+This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
