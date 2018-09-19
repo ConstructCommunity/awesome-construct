@@ -1,0 +1,14 @@
+{
+  "name": "awesome-construct",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WebCreationClub/awesome-construct",
+  "author": "Armaldio <armaldio@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-lint": "^0.8.0"
+  },
+  "scripts": {
+    "test": "awesome-lint"
+  }
+}
