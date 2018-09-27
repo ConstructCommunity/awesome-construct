@@ -1,8 +1,10 @@
 # Construct 2 :vs: Construct 3
 
-| Feature | Construct 2 | Construct 3 |
-|:-------:|:-----------:|:-----------:|
-| Feature 1 | :white_check_mark: | :white_check_mark: |
+| Feature | Construct 2 | Construct 3 (c2runtime) | Construct 3 (c3runtime) |
+|:-------:|:-----------:|:-----------------------:|:-----------------------:|
+| Category Header |  |  |  |
+|:-------:|:-----------:|:-----------------------:|:-----------------------:|
+| Feature 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 # Extending this table
 You can extend this table by submitting a pull request.
