@@ -2,7 +2,7 @@
 
 | Feature | Construct 2 | Construct 3 (c2runtime) | Construct 3 (c3runtime) |
 |:-------:|:-----------:|:-----------------------:|:-----------------------:|
-| ##Category Header |  |  |  |
+| __**Category Header**__ |  |  |  |
 | Feature 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 # Extending this table
