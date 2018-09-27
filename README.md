@@ -11,6 +11,11 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
+<p align="center">  
+   :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
+</p>
+
+
 ## Contents
 
 - [Community](#community)
