@@ -1,9 +1,9 @@
 # Construct 2 :vs: Construct 3
 
 | Feature | Construct 2 | Construct 3 |
-|:-------:|:-----------:|:-----------------------:|:-----------------------:|
-| __**Category Header**__ |  |  |  |
-| Feature 1 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|:-------:|:-----------:|:-----------------------:|
+| __**Category Header**__ |  |  |
+| Feature 1 | :white_check_mark: | :white_check_mark: |
 
 # Extending this table
 You can extend this table by submitting a pull request.
@@ -23,4 +23,4 @@ If it’s not a exist / does not exist case, just put what’s relevant inside t
 ```
 
 # Notes
-About C3, we always compare features of the c3runtime
+We always compare features of the Constrcut 2 and the c2runtime and Construct 3 and the c3runtime.
