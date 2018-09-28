@@ -2,7 +2,7 @@
 
 | Feature | Construct 2 | Construct 3 |
 |:-------:|:-----------:|:-----------:|
-| Feature 1 | :white_check_mark: | :white_check_mark: |
+| Facebook Instant Games | :x: | :white_check_mark: |
 
 # Extending this table
 You can extend this table by submitting a pull request.
