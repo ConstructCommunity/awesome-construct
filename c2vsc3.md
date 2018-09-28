@@ -3,16 +3,16 @@
 | Feature | Construct 2 | Construct 3 |
 |:-------:|:-----------:|:-----------:|
 | Facebook Instant Games | :x: | :white_check_mark: |
-| Multi-platform | :x: | :white_check_mark: |
+| OS | Windows only | Any (work in the browser) |
 | Data Editor | :x: | :white_check_mark: |
 | Build Service | :x: | :white_check_mark: |
 | Advanced Project Statistics | :x: | :white_check_mark: |
 | Live Previews | :x: | :white_check_mark: |
-| New Debugger | :x: | :white_check_mark: |
+| Debugger | Regular | Advanced |
 | Custom Color (Comments & Groups) | :x: | :white_check_mark: |
 | BBCode in Event Sheet | :x: | :white_check_mark: |
 | Boolean (Global & Local) | :x: | :white_check_mark: |
-| Bundle Addons | :x: | :white_check_mark: |
+| Bundled Addons | :x: | :white_check_mark: |
 | Create Object by Name | :x: | :white_check_mark: |
 
 
