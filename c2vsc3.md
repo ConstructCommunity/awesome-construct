@@ -15,6 +15,9 @@
 | Boolean (Global & Local) | :x: | :white_check_mark: |
 | Bundled Addons | :x: | :white_check_mark: |
 | Create Object by Name | :x: | :white_check_mark: |
+| Build system | Integrated build system | Cloud build system |
+| Support | Maintenance mode (*some features added*) | Active |
+| Price | One-Time purchase | Yearly license |
 
 # Extending this table
 You can extend this table by submitting a pull request.
