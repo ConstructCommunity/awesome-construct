@@ -22,6 +22,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Games Showcase](#games-showcase)
 - [Hosting](#hosting)
 - [Tools](#tools)
+- [Export](#export)
 - [Plugins/Behaviors/Effects](#pluginsbehaviorseffects)
 - [Tutorials](#tutorials)
 - [E-Books](#e-books)
@@ -50,6 +51,10 @@ This list includes all the best tools, tutorials and examples related to the awe
 ## Tools
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 - [Addon Assistant](https://github.com/armaldio/c2-addon-assistant) - Construct addon development assistant.
+
+## Export 
+- [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
+- [Chowdren](http://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## Plugins/Behaviors/Effects
 - [[Kyatric] C2 Plugins and Behaviors List](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - Complete list of Plugins and Behaviours available on the forums.
