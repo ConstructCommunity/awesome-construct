@@ -51,6 +51,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 ## Tools
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
+- [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps [in development]
 
 ## Export 
 - [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
