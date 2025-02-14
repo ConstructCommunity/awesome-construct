@@ -86,14 +86,14 @@ This list includes all the best tools, tutorials and examples related to the awe
 - Let's Make Games: [[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [[Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 - [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
 - [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
-- [Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD)
-- [Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp)
-- [Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe)
-- [Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p)
-- [Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l)
-- [Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6)
-- [Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U)
-- [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos)
+- [Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct 2 or 3, faithfully recreated from the NES classic!
+- [Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct 2 or 3!
+- [Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe) - It all started with one question: 'Can you polish a game without adding new art?' The 'Plataforma Gostosinho' series answers this by transforming a basic platformer into a game that’s fun to play in Construct 3!
+- [Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct 2 or 3! Detailed, intermediate-level videos (with some advanced content).
+- [Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct 2 or 3! Not recommended for beginners.
+- [Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
+- [Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
+- [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
 
 ### Other Sources
 
