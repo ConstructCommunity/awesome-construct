@@ -93,6 +93,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l)
 - [Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6)
 - [Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U)
+- [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos)
 
 ### Other Sources
 
