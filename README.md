@@ -56,6 +56,12 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 - [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps [in development]
 
+### Develop
+
+- [[Fábio Smuu] SDK Plugins Construct 2](https://github.com/FabioSmuu/SDK_PluginC2)
+- [[Scirra] SDK Plugins Construct 3 - Official](https://github.com/Scirra/Construct-Addon-SDK)
+- [[ConstructFund] C3IDE2-cli](https://github.com/ConstructFund/c3ide2-cli)
+
 ## Export
 
 - [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
@@ -108,7 +114,6 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [[Udemy FREE!] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
 - [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
 - [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
-- [[Fábio Smuu]SDK Plugins Construct 2]()
 
 ## E-Books
 
