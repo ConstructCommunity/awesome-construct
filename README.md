@@ -86,6 +86,11 @@ This list includes all the best tools, tutorials and examples related to the awe
 - Let's Make Games: [[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [[Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 - [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
 - [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+- [Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD)
+- [Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp)
+- [Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe)
+- [Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p)
+- [Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l)
 
 ### Other Sources
 
