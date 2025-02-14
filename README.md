@@ -75,6 +75,10 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 ## Tutorials
 
+### Fórum
+
+- [[Rafael Trigo] Construct 3 Tutorials](https://www.construct.net/en/tutorials/construct-tutorials-2525) - list of all my tutorials in Construct 3 by Rafael Trigo
+
 ### YouTube
 
 - [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff.
