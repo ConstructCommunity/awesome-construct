@@ -2,11 +2,11 @@
   "name": "awesome-construct",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/WebCreationClub/awesome-construct",
+  "repository": "https://github.com/ConstructCommunity/awesome-construct",
   "author": "Armaldio <armaldio@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "awesome-lint": "^0.17.1"
+    "awesome-lint": "^1.2.0"
   },
   "scripts": {
     "test": "awesome-lint"
