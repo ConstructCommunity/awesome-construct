@@ -56,7 +56,6 @@ A curated list of the best tools, tutorials and examples related to the Construc
 ## Tools
 
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
-- [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps (in development).
 
 ### Develop
 
@@ -89,10 +88,8 @@ A curated list of the best tools, tutorials and examples related to the Construc
 
 - [ArcadEdGames](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff in Construct 2.
 - [ScirraVideos](https://www.youtube.com/user/ScirraVideos/playlists) - Official Scirra's YouTube channel.
-- [C2Tuts](https://www.youtube.com/playlist?list=PLGdBDrsyOPm9XGiq1w_8DvbEQbHmkn7fx) - Construct 2 general tutorials.
 - [Nicholas Dingle](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - Number of Construct 2 tutorials covering different games you can create and different tricks.
 - [John Maksym's Construct 2 Tutorial Series](https://www.youtube.com/playlist?list=PLq6aUvz66jtfnuyOKnPXO5dZly6CB8naA) - General tutorials.
-- [ConstructG's Simple Platformer](https://www.youtube.com/playlist?list=PLxwakQrJudt_NQlMp6oVuBdB-WIDKgoQ3) - Tutorials about how to make a platformer game.
 - [Diego Lizarazo](https://www.youtube.com/user/kanedarkon/videos?view=0&flow=grid&sort=da) - Random Construct 2 tutorials stuff.
 - [English Acorn's Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLusL6SZZRaWr4zqm6GrQHmOuShwtypRJ5) - General Construct 2 tutorials about the editor interface.
 - [English Acorn's Plugins and Objects Tutorials](https://www.youtube.com/playlist?list=PLusL6SZZRaWqP6UmVPs9Ml8BRo2t-wvnT) - Tutorials about plugins and how they work inside the Editor.
@@ -102,7 +99,6 @@ A curated list of the best tools, tutorials and examples related to the Construc
 - [Physics Puzzle Game Development w/ Construct 2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDexNbWi0uPBP6buduUZO3Q) - The official playlist for thenewboston Physics Puzzle Game Development Tutorials.
 - [LividProductions's Platformer Tutorials](https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7) - This series will teach you how to make a platformer.
 - [Jerementor's Construct 2 Tutorials](https://www.youtube.com/channel/UCQkYeiHm9URZsa7nugUg1lw/playlists) - General tutorials.
-- [Kawaerri's Construct 2 Tutorial](https://www.youtube.com/playlist?list=PLdn9X5UVD8H1dEcWVjYU9E5fbpPGjZnQv) - General tutorials.
 - [Gamer Z's Tutorials](https://www.youtube.com/channel/UCXIcG5r9W_Iw6dui35g9oLQ/playlists) - General tutorials.
 - [TodaysTuts's Behaviors Tutorials](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
 - [Let's Make Games: PONG](https://www.youtube.com/watch?v=cvItNHEMB80) - Tutorials on how to create a Pong clone.
@@ -122,10 +118,7 @@ A curated list of the best tools, tutorials and examples related to the Construc
 
 ### Other Sources
 
-- [Game Development with Construct 2 (Basic)](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - Basic course about making games.
-- [Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
 - [Udemy FREE! Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
-- [Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
 - [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
 
 ## E-Books
@@ -136,5 +129,3 @@ A curated list of the best tools, tutorials and examples related to the Construc
 ## Useful Links
 
 - [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum)
-- [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
-- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "_The biggest list of game development resources on the web_".
