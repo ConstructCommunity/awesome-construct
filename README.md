@@ -132,7 +132,3 @@ A curated list of the best tools, tutorials and examples related to the awesome 
 
 - [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 - [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "_The biggest list of game development resources on the web_".
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
