@@ -29,7 +29,8 @@ A curated list of the best tools, tutorials and examples related to the Construc
 
 ## Community
 
-- [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
+- [Discord Server](https://discord.gg/8RJBHbX)
+- [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214)
 - [FAQ](https://www.construct.net/forum/construct-2/how-do-i-18/how-do-i-frequently-asked-ques-41236)
 - [Forums](https://www.construct.net/forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/construct-3+or+construct-2)
@@ -39,13 +40,14 @@ A curated list of the best tools, tutorials and examples related to the Construc
 
 ## Games Showcase
 
-- [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
+- [Games on Steam](https://steamdb.info/tech/Engine/Construct/) - List of Steam games made with the engine.
 - [Games on itch.io](https://itch.io/games/tag-construct-2/tag-construct-3) - List of itch.io games made with the engine.
 - [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
 ## Hosting
 
 - [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
+- [GameJolt](https://gamejolt.com) - Similar platform to Itch, with a focus on social communities and gamification - **Free**.
 - [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
 - [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
 - [Vercel](https://vercel.com/) - Platform where to host an exported game as a static website or cloud functions - **Free/Paid**.
@@ -60,14 +62,16 @@ A curated list of the best tools, tutorials and examples related to the Construc
 
 - [Fábio Smuu](https://github.com/FabioSmuu/SDK_PluginC2) - SDK Plugins Construct 2.
 - [Construct Addon SDK](https://github.com/Scirra/Construct-Addon-SDK) - Scirra's Official SDK to develop plugins for Construct 3.
-- [C3IDE2-cli](https://github.com/ConstructFund/c3ide2-cli) - A CLI for the C3IDE Framework and Editor.
+- [C3IDE2-cli](https://github.com/ConstructFund/c3ide2-cli) - A CLI for the C3IDE Framework and Editor (Deprecated).
 - [C3 Framework](https://github.com/c3framework) - Automated addon development.
+- [Lost Framework](https://github.com/lostinmind-dev/lost-c3) - Easy making of addons.
 
 ## Export
 
 - [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
 - [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
 - [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
+- [Pipelab](https://pipelab.app/) - Fully automated export pipeline.
 
 ## Plugins/Behaviors/Effects
 
@@ -127,8 +131,10 @@ A curated list of the best tools, tutorials and examples related to the Construc
 ## E-Books
 
 - [Level Zero](https://www.construct.net/blogs/construct-official-blog-1/level-zero-free-construct-2-book-853) - Complete book on how to make games.
+- [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook)
 
 ## Useful Links
 
+- [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum)
 - [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 - [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "_The biggest list of game development resources on the web_".
