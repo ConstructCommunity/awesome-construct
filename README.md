@@ -1,13 +1,13 @@
 # Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://construct-static.com/images/v861/r/global/construct-3-logo_v130.png" align="right" width="100">](https://www.construct.net/)
+<img src="https://construct-static.com/images/v861/r/global/construct-3-logo_v130.png" align="right" width="100">
 
 > You can create the game of your dreams. Build brain tickling puzzles, stunning platformers and immersive RPGs - or break the mould and make something new.
 > Create what you want, how you want with [Construct](https://www.construct.net).
 >
 > — <cite>Ashley (Scirra Founder)</cite>
 
-A curated list of the best tools, tutorials and examples related to the awesome [Construct](https://www.construct.net) game engine on all its versions.
+A curated list of the best tools, tutorials and examples related to the Construct game engine on all its versions.
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
