@@ -78,7 +78,7 @@ Community supported channels.
 
 ### Construct 2
 
-- [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
+- [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
 
 ## Addons
 
@@ -113,7 +113,7 @@ Community supported channels.
 ### Construct 2
 
 - [C3IDE](https://www.construct.net/en/forum/construct-3/plugin-sdk-10/c3ide-construct-plugin-ide-141201) - IDE for addon development.
-- [Fábio Smuu](https://github.com/FabioSmuu/SDK_PluginC2) - SDK Plugins Construct 2.
+- [Fábio Smuu](https://github.com/FabioSmuu/SDK_PluginC2) - SDK Plugins.
 
 ## YouTube Channels
 
@@ -164,11 +164,11 @@ Community supported channels.
 
 - [Nicholas Dingle's Tutorials](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - Number of tutorials covering different games you can create and different tricks.
 
-- [Marcos Game Dev: Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct 2 or 3!
-- [Marcos Game Dev: Curso Beat'em Up](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct 2 or 3! Not recommended for beginners.
+- [Marcos Game Dev: Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct!
+- [Marcos Game Dev: Curso Beat'em Up](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct! Not recommended for beginners.
 - [Marcos Game Dev: Criando Roguelike](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
-- [Marcos Game Dev: Super Mario Bros.](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct 2 or 3, faithfully recreated from the NES classic!
-- [Marcos Game Dev: Recriando Megaman X](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct 2 or 3! Detailed, intermediate-level videos (with some advanced content).
+- [Marcos Game Dev: Super Mario Bros.](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct, faithfully recreated from the NES classic!
+- [Marcos Game Dev: Recriando Megaman X](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct! Detailed, intermediate-level videos (with some advanced content).
 - [Marcos Game Dev: Criando Menu Principal](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
 
 - [thenewboston: Game Development w/ Construct](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAfHxsK6bji7trLS-N0nKF-) - The official playlist for thenewboston Game Development.
@@ -196,7 +196,7 @@ Community supported channels.
 ### Construct 3
 
 - [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook) - The ideal companion for anyone using Construct in the classroom.
-- [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct 3 aimed at teaching students the basics of Computer Science.
+- [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
 
 ## Useful Links
 
