@@ -1,4 +1,6 @@
+.vscode/
 .idea/
 awesome-construct.iml
 node_modules/
 yarn.lock
+package-lock.json
