@@ -9,11 +9,7 @@
 
 A curated list of the best tools, tutorials and examples related to the Construct game engine on all its versions.
 
-[How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
-
-<p align="center">  
-   :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
-</p>
+[How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/CONTRIBUTING.md)
 
 <!-- TOC ignore:true -->
 ## Contents
