@@ -77,6 +77,7 @@ Community supported channels.
 
 - [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
 - [Neo NW](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW.js, replacing the outdated "NW.js for Construct 2" installer.
+- [website Reinarte](https://reinarte.com.br/) - Plugins, Behaviors and examples.
 
 ## Addons
 
@@ -91,7 +92,6 @@ Community supported channels.
 - [Kyatric's Effects](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - WebGL Effects.
 - [skwp's Plugins](https://itch.io/c/4077852/-my-c2-plugins) - Ported Construct 3 Plugins to Construct 2.
 - [skwp's Behaviors](https://itch.io/c/5297919/-my-c2-behaviors) - Ported Construct 3 Behaviors to Construct 2.
-- [website Reinarte](https://reinarte.com.br/) - Plugins, Behaviors and examples.
 
 ## Tools
 
