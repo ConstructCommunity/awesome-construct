@@ -12,6 +12,7 @@ A curated list of the best tools, tutorials and examples related to the Construc
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/CONTRIBUTING.md)
 
 <!-- TOC ignore:true -->
+
 ## Contents
 
 <!-- TOC -->
@@ -76,11 +77,11 @@ Community supported channels.
 
 - [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
 - [Neo NW](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW.js, replacing the outdated "NW.js for Construct 2" installer.
+- [website Reinarte](https://reinarte.com.br/) - Plugins, Behaviors and examples.
 
 ## Addons
 
 ### Construct 3
-
 
 - [piranha305's Addons](https://itch.io/c/5333183/construct-addons) - Plugins and Behaviors.
 - [Master Pose's Addons](https://itch.io/c/2390490/asset-store-) - Plugins, Behaviors and Themes.
@@ -97,6 +98,8 @@ Community supported channels.
 ### Construct 2
 
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personal addon manager of Rex Rainbow.
+- [Array Editor for C2](https://curious-pixie-60ff1a.netlify.app/) - A tool to edit arrays in Construct 2.
+- [Sprite Font Generator - v3](https://www.construct.net/en/forum/game-development/tools-and-resources-27/sprite-font-generator-v3-64038) - Tool to generate sprite fonts for Construct.
 
 ## Addon Development
 
@@ -118,7 +121,7 @@ Community supported channels.
 
 ### Construct 3
 
-- [AJ Ordaz](https://www.youtube.com/@AJOrdaz) - Successful Construct developer shares his experiences. 
+- [AJ Ordaz](https://www.youtube.com/@AJOrdaz) - Successful Construct developer shares his experiences.
 - [FoozleCC](https://www.youtube.com/@FoozleCC) - In-depth showcases of addons and features.
 - [Game Design with Reilly](https://www.youtube.com/@gamedesignwithreilly) - Explaining every detail of the engine.
 - [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev) - Tutorials & more.
@@ -176,7 +179,6 @@ Community supported channels.
 
 - [Udemy: Creating a Pixel Platformer in HTML5!](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - By the end, you will have gone from beginner to advanced in no time! **(Free)**
 
-
 ### Other Sources
 
 #### Construct 3
@@ -196,4 +198,3 @@ Community supported channels.
 - [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
 
 ## Useful Links
-
